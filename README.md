@@ -46,5 +46,4 @@ php artisan serve --host=0.0.0.0 --port=8000
 
 
 ## Postman
-استورد الـ collection من:
 `postman/Project Management API.postman_collection.json`
